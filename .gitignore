@@ -1,0 +1,8 @@
+.vscode
+.venv
+secrets.sh
+sv_frontend/node_modules
+sv_frontend/build
+sv_frontend/dist
+backend/dependencies
+backend/aws_lambda_layer.zip
