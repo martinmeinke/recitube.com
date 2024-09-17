@@ -5,7 +5,7 @@ Even though I like the videos and plan on cooking the recipes at home, I often e
 This is my attempt at solving this dilemma.
 
 Recitube fetches video transcripts from youtube.
-It then instruments Llama-3-8B to perform ingredient extraction.
+It then instruments Llama-3-8B to perform ingredient extraction in a "vanilla-RAG" fashion.
 It provides convenient links to Walmart and Amazon (Whole Foods) to make buying friction-free.
 
 This project is based on
